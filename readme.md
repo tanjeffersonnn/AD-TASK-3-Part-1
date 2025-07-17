@@ -81,42 +81,79 @@ This project demonstrates connectivity between a PHP backend and two different d
 10. File Structure to follow below.
 
 AD-Task-3-Part-1
+
 └─ assets
+
 | └─ css
+
 | | └─ name.css
+
 | └─ img
+
 | | └─ name.jpeg/.jpg/.webp/.png
+
 | └─ js
+
 | └─ name.js
+
 └─ components
+
 | └─ name.component.php
+
 | └─ templates
+
 | └─ name.component.php
+
 └─ handlers
+
 | └─ name.handler.php
+
 └─ layout
+
 | └─ name.layout.php
+
 └─ pages
+
 | └─ pageName
+
 | └─ assets
+
 | | └─ css
+
 | | | └─ name.css
+
 | | └─ img
+
 | | | └─ name.jpeg/.jpg/.webp/.png
+
 | | └─ js
+
 | | └─ name.js
+
 | └─ index.php
+
 └─ staticData
+
 | └─ name.staticdata.php
+
 └─ utils
+
 | └─ name.utils.php
+
 └─ vendor
+
 └─ .gitignore
+
 └─ bootstrap.php
+
 └─ composer.json
+
 └─ composer.lock
+
 └─ index.php
+
 └─ readme.md
+
 └─ router.php
 
 > The following should be renamed: name.css, name.js, name.jpeg/.jpg/.webp/.png, name.component.php (but not the part of the `component.php`), Name.utils.php (but not the part of the `utils.php`)
